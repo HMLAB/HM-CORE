@@ -1,0 +1,47 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~TE0723.PrjPCB|ReportField=ProjectFullPath~D:\Workspace\work\pcb_pro\HackaZynq\THP2015\hw\TE0723\TE0723.PrjPCB|ReportField=Title~Bill of Materials For Project [TE0723.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~200|ReportField=ReportTime~12:58:50|ReportField=ReportDate~12/19/2017|ReportField=ReportDateTime~12/19/2017 12:58:50|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Indrek Tubalkain|ReportField=CheckedBy~|ReportField=CompanyName~Trenz Electronic GmbH|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~12/19/2017|ReportField=CurrentTime~12:58:48|ReportField=Date~08.07.2015|ReportField=DocumentFullPathAndName~D:\Workspace\work\pcb_pro\HackaZynq\THP2015\hw\TE0723\TE0723.SchDoc|ReportField=DocumentName~TE0723.SchDoc|ReportField=DocumentNumber~TE0723|ReportField=DrawnBy~Indrek Tubalkain|ReportField=Engineer~Indrek Tubalkain|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~12/19/2017|ReportField=Organization~Trenz Electronic GmbH|ReportField=ProjectName~TE0723.PrjPCB|ReportField=Revision~01|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~12|ReportField=Time~|ReportField=Title~TE0723 / HM-CORE-01|ReportField=VersionControl_RevNumber~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=0.96:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-4:MediaType=1:DitherType=10:PaperKind=A4:PrintScaleMode=1|ReportField=DataSourceFileName~TE0723.PrjPCB|ReportField=DataSourceFullPath~D:\Workspace\work\pcb_pro\HackaZynq\THP2015\hw\TE0723\TE0723.PrjPCB
+1|4.7µF|KON 4.7µF 6.3V X5R SMD 20%|C1, C4, C12, C15, C18, C19, C24, C41, C43, C45, C47, C52, C63, C70, C72, C79, C81, C87, C89|CAPC1005X60N|24719|19
+2|470nF|KON 470nF X5R 6.3V SMD 20%|C2, C3, C5, C6, C7, C8, C9, C10, C11, C14, C17, C20, C21, C22, C23, C26, C27, C31, C32, C33, C35, C36, C37, C38, C39, C40, C51, C55, C56, C57, C58, C59, C60, C61, C62, C64, C65, C66, C67, C68, C69, C71, C73, C74, C75, C80, C82, C88, C90, C91, C92, C94, C95, C98, C101, C116, C117|CAPC0603X33N|24921|57
+3|10µF|KON 10µF 16V X5R SMD 20%|C13, C34|CAPC1608X90N|25341|2
+4|47µF|KON 47µF 6,3V  X5R SMD 20%|C16, C86, C93, C96, C97|CAPC2012X135N|24718|5
+5|1nF|KON 1nF 50V SMD AEC-Q200|C28|CAPC1005X55N|26184|1
+6|100µF|KON 100µF 6,3V X5R SMD 20%|C42, C44, C46, C48, C50, C54, C77, C78, C83, C84, C85|CAPC3216X180N|23116|11
+7|100nF|KON 100nF 50V SMD AEC-Q200|C49, C53|CAPC1005X55N|26183|2
+8|LED Red SML-P11UTT86|LED Rot SML-P11UTT86 SMD|D2|LEDC1006X25N_RED|24212|1
+9|NSR02F30NXT5G|NSR02F30NXT5G|D3|DIOC0603X30N|26175|1
+10|PD3S230H|PD3S230H|D4, D5|PowerDI323|24682|2
+11|LED Green SML-P11MTT86|LED Grün SML-P11MTT86 SMD|D6, D7|LEDC1006X25N_GREEN|24211|2
+12|Female Header, 2.54mm, 1row, 10pol.|Buchsenleiste 1 reihig präz. 10 pol.|J1|BUCHSENLEISTE-2.54-10-1R|26386|1
+13|Female Header, 2.54mm, 1row, 8pol.|Buchsenleiste 1 reihig präz. 8 pol.|J2, J3|BUCHSENLEISTE-2.54-8-1R|26387|2
+14|Female Header, 2.54mm, 1row, 6pol.|Buchsenleiste 1 reihig präz. 6 pol.|J4|BUCHSENLEISTE-2.54-6-1R|26388|1
+15|Pin Header 2.54 2Row 8Pins|Stiftleiste gerade 2-reihig, 8pol.|J5|STIFTLEISTE2_54 OG 2R-8|23904|1
+16|JUMPER2.54-2|Stiftleiste gerade 1-reihig, 2pol.|J7|JUMPER2_54-2|22330|1
+17|Micro USB AB Receptacle|Micro USB AB Buchse|J8, J9|Micro USB ZX62-xx-5PA|25126|2
+18|microSD Memory Card Connector with Detec|microSD Memory Card Connector with Detect Switch|J10|104031-0811|26322|1
+19|BKP0603HS121-T|Ferritdurchführung SMD 0201|L1, L2, L3, L4, L6, L7, L8, L10|INDC0603X33N|25393|8
+20|FIDU-DOT - small|FIDU-DOT - SMALL|PM1, PM2, PM3, PM4, PM5, PM6|FIDU-DOT - small|22905|6
+21|12K|WID SMD 12K 1% 0,063W|R1, R4, R5, R10, R11, R13, R14, R15, R28, R29, R32, R33, R34, R35, R36, R38, R39, R40, R42|RESC1005X40N|22598|19
+22|2K61|WID SMD 2K61 1% 0,063W|R2, R7, R19|RESC1005X40N|23730|3
+23|240R|WID SMD 240R 1% 0,063W|R6, R8, R24, R25, R43, R44, R50, R51|RESC1005X40N|23661|8
+24|33R|WID SMD 33R 1% 0,05W|R9, R12, R17, R18, R30, R37, R45, R46|RESC0603X26N|25021|8
+25|1K13|WID SMD 1K13 1% 0,063W|R16, R20, R31, R55, R56, R57|RESC1005X40N|23160|6
+26|0R|WID SMD 0R 1% 0.063W AEC-Q200|R21, R53|RESC1005X40N|26222|2
+27|80R6|WID SMD 80R6 1% 0,063W|R22, R23|RESC1005X40N|25100|2
+28|200K|WID SMD 200K 1% 0,063W|R26|RESC1005X40N|23846|1
+29|301K|WID SMD 301K 1% 0,063W|R27|RESC1005X40N|26224|1
+30|8K06|WID SMD 8K06 1% 0,063W|R41|RESC1005X40N|25052|1
+31|KMS221GLFS|KMS221GLFS - SWITCH, SPST, 0.05A, 32VDC, SMD|S1|KMS2xxGLFS|26229|1
+32|Testpoint 1mm|Testpoint 1mm|TP1, TP2, TP3, TP4|TP_1mm|25063|4
+33|XC7Z7010-CLG225||U1||XC7Z7010-CLG225|1
+34|FT2232HQ|FT2232HQ|U3|QFN50P900X900X100-65N-445|24727|1
+35|PRTR5V0U2X,215|PRTR5V0U2X,215|U4, U22|SOT190P229X114-4N|24840|2
+36|S25FL127SABMFV10|S25FL127SABMFV10 automotive SO8|U5|SOIC127P790X216-8N|26078|1
+37|93AA56BT-I/OT|93AA56BT-I/OT|U6|SOT95P280X145-6N|24730|1
+38|SiT8008AI-73-XXS-12.000000E|SiT8008AI-73-XXS-12.000000E MEMS Oszillator 12MHz|U7|2016|25325|1
+39|MT42L32M16D1AB-25 IT:A|MT42L32M16D1AB-25 IT:A|U8|BGA121C50P15X11_800X650X80B32N|26300|1
+40|CD74HC4051D|CD74HC4051D|U10|SOIC127P600X175-16N|26538|1
+41|AD8031ART|AD8031ART|U11|SOT95P280X145-5N|25377|1
+42|SiT8008AI-73-XXS-52.000000E|SiT8008AI-73-XXS-52.000000E MEMS Oszillator 52MHz|U14|2016|25009|1
+43|EN5311QI|EN5311QI|U16, U17, U19, U20|EN5311QI|25492|4
+44|USB3320C-EZK|USB3320C-EZK|U18|QFN50P500X500X100-33N-345|24992|1
+45|TPS2051DGN|TPS2051BDGN|U21|SOP65P488X107-9N-TI|25167|1
+46|TPS3805H33DCKR|TPS3805H33DCKR|U23|SOT65P210X110-5N|25049|1

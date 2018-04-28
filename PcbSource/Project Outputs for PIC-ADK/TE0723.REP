@@ -1,0 +1,36 @@
+*************************************************************
+FileName = TE0723.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : TE0723.GD1
+
+    Adding Layer      : PCB-Outline-GM6
+
+    Adding Drill Pair : L 01-L 08
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : TE0723.GG1
+
+    Adding Layer      : PCB-Outline-GM6
+
+    Adding Drill Pair : L 01-L 08
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
