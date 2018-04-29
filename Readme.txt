@@ -1,9 +1,13 @@
+
 # Company: HMLAB
 # Create Date: 2018/04/01 20:13:21
 # Design Name: hmcore_pcb_files
 # Description: Open Source PCB files for hmcore edit by Altium Designer
 # Revision:    V180401 - File Created
-# Additional Comments:For more information, please visit: www.hm-lab.com/hm-core
+# Additional Comments:
+## For more information, please visit: www.hm-lab.com/hm-core
+## Forked and changed from https://github.com/AnttiLukats/HackaZynq
+
 
 1.Hardware released under CERN OHL version 1.2
 http://www.ohwr.org/projects/cernohl/wiki
