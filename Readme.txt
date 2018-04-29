@@ -1,15 +1,10 @@
 
 # Description: Open Source PCB files for HM-CORE.
-# Revision:    V180401 - File Created
+# Revision: V180401 - File Created
 # Additional Comments:
+## Hardware released under CERN OHL version 1.2
 ## For more information, please visit: https://www.hm-lab.com/hm-core
 ## Forked and changed from https://github.com/AnttiLukats/HackaZynq
-
-1.Hardware released under CERN OHL version 1.2
-http://www.ohwr.org/projects/cernohl/wiki
-
-2.Changed by HMLAB under CERN OHL version 1.2
-https://www.hm-lab.com/hm-core
 
 # 一段简单介绍
 HM-CORE开源SOC硬件平台由德国Trenz Electronic进行开源原理图和PCB板图设计，HMLAB进
