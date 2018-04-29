@@ -1,4 +1,7 @@
 
+开源ZYNQ平台，加速你的创想
+Open source ZYNQ platform, accelerate your creativity.
+
 # Description: Open Source PCB files for HM-CORE.
 # Revision: V180401 - File Created
 # Additional Comments:
